@@ -54,3 +54,5 @@ looking for.
       everything straight to master.
     - otoh, I have no idea how to actually delete stuff from git if I
       accidentally drop some secret data in here while the tool is running :\
+- It also might still be pretty good for sharing notes on cool things I
+  discover and keeping their published versions up to date.
