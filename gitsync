@@ -1,5 +1,6 @@
 #!/bin/sh
 
+git pull
 fswatch --exclude '\.git' -0 $1 | while read -d "" event
 do
 git add --all $1
