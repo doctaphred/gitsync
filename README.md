@@ -20,6 +20,10 @@ if you REALLY wanna have a bad time someday, hook it up to systemd.
 It doesn't matter where you run `gitsync`, as long as your working directory
 is somewhere in the git repo you're working with.
 
+I am actually not sure whether it works as expected if you pass it a
+subdirectory of the git repo. I am also not sure whether I am going to bother
+figuring it out.
+
 ## Reflections Upon First Use
 
 This is *definitely* a terrible idea
