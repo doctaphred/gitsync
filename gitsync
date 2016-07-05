@@ -1,6 +1,6 @@
 #!/bin/sh
 
-fswatch -0 $1 | while read -d "" event
+fswatch --exclude '\.git' -0 $1 | while read -d "" event
 do
 git add --all $1
 git commit -m "<gitsync autocommit>"
