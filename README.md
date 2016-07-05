@@ -13,7 +13,7 @@ Disclaimer: this is probably a terrible idea.
 ## Usage (seriously, just don't)
 
 - TODO
-- MORE LIKE TODONT AMIRITE
+- MORE LIKE TODON'T AMIRITE
 
 ## Reflections Upon First Use
 
