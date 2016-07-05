@@ -46,6 +46,7 @@ looking for.
 
 It might still be decent if all operations were performed on a dedicated
 "_gitsync" branch, though.
+
     - In fact, for things like config files, totally: each machine could
       switch to the bleeding-edge _gitsync branch when desired, or hang
       out on master and wait for pull requests to get merged.
