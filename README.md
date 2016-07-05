@@ -40,4 +40,6 @@ Gives a new perspective for that whole "nightly build" thing...
 
 So the original idea behind this project was to reduce the friction between me
 and my git remotes, in order to avoid the problems that come up when I let my
-home directory configs get out of sync between machines.
+home directory configs get out of sync between machines. But at this point I
+can say with *very* definite certainty that it is *not* the solution I am
+looking for.
