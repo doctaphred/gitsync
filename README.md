@@ -5,6 +5,7 @@ Commit and push your files automatically!
 Disclaimer: this is probably a terrible idea.
 
 I guess I should probably add some installation instructions or something?
+^ Ok done
 
 ## Installation (please don't)
 
