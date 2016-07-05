@@ -6,12 +6,13 @@ Disclaimer: this is probably a terrible idea.
 
 ## Installation (please don't)
 
-- `brew install fswatch` (or however you wanna get it)
+- `brew install fswatch` [(or however you wanna get
+  it)](https://github.com/emcrisostomo/fswatch)
 - `cp gitsync somewhere/in/your/path/`
 
 ## Usage (seriously, just don't)
 
-- brb
+-
 
 ## Reflections Upon First Use
 
