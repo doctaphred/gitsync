@@ -77,6 +77,8 @@ looking for.
     - Advantage over manually committing and pushing a repo: yeah I can never
       convince myself to actually do that.
 
+Conclusion: ¯\_(ツ)_/¯
+
 ## TODO
 
 - [ ] avoid conflicts caused by other git processes
