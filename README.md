@@ -76,3 +76,11 @@ looking for.
       on, and it isn't limited to just your team.
     - Advantage over manually committing and pushing a repo: yeah I can never
       convince myself to actually do that.
+
+## TODO
+
+- avoid conflicts caused by other git processes
+- pull before every commit?
+  - autostash? (will that conflict with the active editor?)
+  - how should it handle merge conflicts?
+- commit messages should be *NSYNC lyrics
