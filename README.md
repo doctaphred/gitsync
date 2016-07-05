@@ -13,8 +13,9 @@ Disclaimer: this is probably a terrible idea.
 
 ## Usage (seriously, just don't)
 
-In an already-initialized git repo with a remote, `gitsync .`.
-
+In an already-initialized git repo with a remote, `gitsync .`. Run it in the
+background or via tmux/screen if you have a good memory or like surprises. Or
+if you REALLY wanna have a bad time someday, hook it up to systemd.
 
 ## Reflections Upon First Use
 
