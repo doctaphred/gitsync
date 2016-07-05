@@ -52,6 +52,5 @@ looking for.
     - This would probably really help with stability, and encourage me to
       actually use branches and pull requests rather than just yolo'ing
       everything straight to master.
-
-Also I have no idea how to actually delete stuff from git if I accidentally
-drop some secret data in here while the tool is running :\
+    - otoh, I have no idea how to actually delete stuff from git if I
+      accidentally drop some secret data in here while the tool is running :\
