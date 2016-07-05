@@ -57,8 +57,9 @@ looking for.
 - It also might still be pretty good for sharing notes on cool things I
   discover and keeping their published versions up to date.
     - Advantage over Notes.app/Dropbox: keeps track of when you make changes.
-        - Obvs you can add timestamps to your edits, but that's a lot of
-          overhead, both when editing and when reading.
+        - Obvs you can add timestamps to your additions, but that's a lot of
+          overhead, both when editing and when reading. Also pretty hard to
+          timestamp edits and deletes in a reasonable fashion.
     - Advantage over Slack: you can actually find the stuff you share later
       on, and it isn't limited to just your team.
     - Advantage over manually committing and pushing a repo: yeah I can never
