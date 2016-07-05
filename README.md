@@ -12,7 +12,8 @@ Disclaimer: this is probably a terrible idea.
 
 ## Usage (seriously, just don't)
 
-- TODON'T
+- TODO
+- MORE LIKE TODONT AMIRITE
 
 ## Reflections Upon First Use
 
