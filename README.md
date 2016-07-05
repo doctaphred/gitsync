@@ -14,8 +14,8 @@ Disclaimer: this is probably a terrible idea.
 ## Usage (seriously, just don't)
 
 In an already-initialized git repo with a remote, `gitsync .`. Run it in the
-background or via tmux/screen if you have a good memory or enjoy surprises. Or
-if you REALLY wanna have a bad time someday, hook it up to systemd.
+background or via tmux/screen if you have a good memory or enjoy surprises.
+(Or if you REALLY wanna have a bad time someday, hook it up to systemd.)
 
 It doesn't matter where you run `gitsync`, as long as your working directory
 is somewhere in the git repo you're working with.
