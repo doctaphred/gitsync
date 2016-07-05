@@ -43,3 +43,6 @@ and my git remotes, in order to avoid the problems that come up when I let my
 home directory configs get out of sync between machines. But at this point I
 can say with *very* definite certainty that it is *not* the solution I am
 looking for.
+
+It might still be decent if all operations were performed on a dedicated
+"_gitsync" branch, though.
