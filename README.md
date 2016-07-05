@@ -16,4 +16,6 @@ If nothing else, at least it led me to discover [this gem of the '90s](https://w
 
 Is it cheating to reorder my thoughts, or post them out of order?
 
-Welp, now I understand firsthand why Google Wave totally tanked...
+Welp, now I understand firsthand why Google Wave totally tanked.
+
+I wonder how long until I get rate limited...
