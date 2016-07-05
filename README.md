@@ -81,6 +81,6 @@ looking for.
 
 - avoid conflicts caused by other git processes
 - pull before every commit?
-  - autostash? (will that conflict with the active editor?)
-  - how should it handle merge conflicts?
+    - autostash? (will that conflict with the active editor?)
+    - how should it handle merge conflicts?
 - commit messages should be *NSYNC lyrics
