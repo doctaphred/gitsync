@@ -56,3 +56,4 @@ looking for.
       accidentally drop some secret data in here while the tool is running :\
 - It also might still be pretty good for sharing notes on cool things I
   discover and keeping their published versions up to date.
+    - Advantage over Notes.app/Dropbox: keeps track of when you make changes
