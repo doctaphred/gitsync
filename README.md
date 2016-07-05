@@ -12,7 +12,7 @@ Disclaimer: this is probably a terrible idea.
 
 ## Usage (seriously, just don't)
 
-- TODO
+- TODON'T
 
 ## Reflections Upon First Use
 
