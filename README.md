@@ -14,4 +14,6 @@ omg why would ANYBODY ever actually use this
 
 If nothing else, at least it led me to discover [this gem of the '90s](https://www.youtube.com/watch?v=byuPyhx5Ytg)
 
+Is it cheating to reorder my thoughts, or post them out of order?
+
 Welp, now I understand firsthand why Google Wave totally tanked...
