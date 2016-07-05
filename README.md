@@ -8,6 +8,9 @@ I guess I should probably add some installation instructions or something?
 
 ## Installation (please don't)
 
+- `brew install fswatch` (or however you wanna get it)
+- `cp gitsync somewhere/in/your/path/`
+
 ## Reflections Upon First Use
 
 This is *definitely* a terrible idea
