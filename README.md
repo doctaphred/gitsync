@@ -6,6 +6,8 @@ Disclaimer: this is probably a terrible idea.
 
 I guess I should probably add some installation instructions or something?
 
+## Installation (please don't)
+
 ## Reflections Upon First Use
 
 This is *definitely* a terrible idea
