@@ -4,6 +4,8 @@ Commit and push your files automatically!
 
 Disclaimer: this is probably a terrible idea.
 
+I guess I
+
 ## Reflections Upon First Use
 
 This is *definitely* a terrible idea
