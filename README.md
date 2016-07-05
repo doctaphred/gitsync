@@ -19,3 +19,8 @@ Is it cheating to reorder my thoughts, or post them out of order?
 Welp, now I understand firsthand why Google Wave totally tanked.
 
 I wonder how long until I get rate limited...
+
+It's interesting to finally have exposed to me how nonlinear my edits tend to
+be: I've had a half-finished sub-thought for a previous point in my clipboard
+for a few commits now, because I have this instinct to keep my commits atomic.
+Pretty sure that's not really relevant here, but the thought persists.
