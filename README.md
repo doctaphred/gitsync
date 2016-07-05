@@ -8,7 +8,7 @@ Disclaimer: this is probably a terrible idea.
 
 - `brew install fswatch` [(or however you wanna get
   it)](https://github.com/emcrisostomo/fswatch)
-- `cp gitsync somewhere/in/your/path/`
+- `cp gitsync /somewhere/in/your/path/`
     - Or just invoke it directly.
     - Or just, y'know, don't.
 
