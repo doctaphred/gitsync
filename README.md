@@ -13,8 +13,8 @@ Disclaimer: this is probably a terrible idea.
 
 ## Usage (seriously, just don't)
 
-- TODO
-- MORE LIKE TODON'T AMIRITE
+In an already-initialized git repo with a remote, `gitsync .`.
+
 
 ## Reflections Upon First Use
 
