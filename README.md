@@ -36,6 +36,8 @@ be: I've had a half-finished sub-thought for a previous point in my clipboard
 for a few commits now, because I have this instinct to keep my commits atomic.
 Pretty sure that's not really relevant here, but the thought persists.
 
+^ UPDATE: still sittin' on the clipboard, lol
+
 Gives a new perspective for that whole "nightly build" thing...
 
 So the original idea behind this project was to reduce the friction between me
