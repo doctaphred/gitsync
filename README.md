@@ -79,8 +79,8 @@ looking for.
 
 ## TODO
 
-[ ] avoid conflicts caused by other git processes
-[ ] pull before every commit?
-    [ ] autostash? (will that conflict with the active editor?)
-    [ ] how should it handle merge conflicts?
-[ ] commit messages should be *NSYNC lyrics
+- [ ] avoid conflicts caused by other git processes
+- [ ] pull before every commit?
+    - [ ] autostash? (will that conflict with the active editor?)
+    - [ ] how should it handle merge conflicts?
+- [ ] commit messages should be *NSYNC lyrics
