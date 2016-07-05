@@ -13,3 +13,5 @@ I am scared to death of making typos
 omg why would ANYBODY ever actually use this
 
 Well, if nothing else, it led me to discover [this gem of the '90s](https://www.youtube.com/watch?v=byuPyhx5Ytg)
+
+Welp, now I understand firsthand why Google Wave totally tanked...
