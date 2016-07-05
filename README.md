@@ -34,3 +34,5 @@ It's interesting to finally have exposed to me how nonlinear my edits tend to
 be: I've had a half-finished sub-thought for a previous point in my clipboard
 for a few commits now, because I have this instinct to keep my commits atomic.
 Pretty sure that's not really relevant here, but the thought persists.
+
+Gives a new perspective for that whole "nightly build" thing...
